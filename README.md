@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"> -->
 
-- 🔭 I’m currently working on **Mobile Applications Freelancer.**
+- 🔭 I’m currently working as **Mobile Applications Freelancer.**
 
 - 📱🤖 I’m master in  **Android and Jetpack Compose**
 
